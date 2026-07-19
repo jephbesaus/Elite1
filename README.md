@@ -38,7 +38,7 @@ l'environnement Vercel pour s'exécuter.)
 2. Sur [vercel.com](https://vercel.com), cliquez sur *Add New → Project*, puis importez le dépôt.
 3. Vercel détecte automatiquement Vite (aucune configuration à toucher).
 4. Avant de cliquer sur *Deploy*, ouvrez **Environment Variables** et ajoutez :
-   - `ANTHROPIC_API_KEY` = votre clé API Anthropic
+   - `ANTHROPIC_API_KEY` = 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
 5. Cliquez sur *Deploy*.
 
 **Option B — via la CLI Vercel**
